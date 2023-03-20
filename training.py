@@ -1,4 +1,4 @@
-# coding:utf-8
+# coding:utf-7
 
 import matplotlib.pyplot as plt
 import csv
